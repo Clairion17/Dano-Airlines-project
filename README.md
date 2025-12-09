@@ -82,8 +82,6 @@ plt.show()
 
 - 📈 Dashboard (Optional Power BI/Tableau)
 
-You can include:
-
 Overall Satisfaction Score
 
 Top 5 Low-Scoring Survey Items
